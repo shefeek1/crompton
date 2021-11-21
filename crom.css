@@ -1,0 +1,282 @@
+*{
+    margin: 0%;
+    
+   
+}
+body{
+    font-family:  Sans, sans-serif;
+}
+.header{
+    height:54px;
+    width:100%;
+    background-color:rgb(10 55 137 / 95%);
+    float:left;
+}
+.head1{
+    height:54px;
+    width:75px;
+    float:left;
+    
+    
+    
+}
+.head2{
+    height:54px;
+    width:60%;
+    float:left;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+   
+}
+.list1{
+    font-size: 14px;
+    color: #fff;
+    float: left;
+    margin-left: 10px;
+    margin-top: 19px;
+    cursor: pointer;
+    
+}
+.logo{
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+ margin-top: 13px;
+ margin-left: 85px;
+
+}
+.head3{
+    height:54px;
+    width:270px;
+   
+    float:left;
+
+}.img1{
+    height: 28px;
+    width: 113px;
+    margin-left: 66px;
+    margin-top: 15px;
+
+}
+.section2{
+    width:100%;
+    height:550px;
+    float: left;
+    background-color:#fff;
+
+}
+.img2{
+    width:100%;
+    height:550px;
+    float: left;
+}
+.section3{
+    width:100%;
+    height:185px;
+    float: left;
+    background-color: #fff;
+}
+.t1{
+    font-size: 45px;
+    color: rgb(14, 12, 12);
+    float: left;
+    margin-top: 53px;
+    margin-left: 460px;
+}
+.t2 h4{
+    font-size: 19px;
+    word-spacing: 2rem;
+    text-align: center;
+    margin-top: 154px;
+    color:grey;
+    margin-right: 113px;
+}
+.section4{
+
+    width: 100%;
+    height: 465px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    background-color:#fff;
+    font-weight:500;
+    color: grey;
+}
+.section4-1{
+
+    width:21%;
+    height:465px;
+    margin:auto;
+}
+.section4-1 img{
+    width:100%;
+    height:345px;
+    border-radius: 5px;;
+    cursor: pointer;
+
+}
+.section5{
+    width:100%;
+    height:110px;
+    float: left;
+    background-color:#fff;
+}
+.section4-1 img:hover{
+
+    border-radius: 14px;
+    box-shadow: 13px 13px 13px #cbced1,-13px -13px 20px #ffffff;
+}
+.t3{
+    font-size: 45px;
+    color: rgb(14, 12, 12);
+    float: left;
+    margin-top: 53px;
+    margin-left: 480px;
+}
+.section6{
+    float: left;
+    width:100%;
+    height: 290px;
+    background-color:#fff;
+    display: flex;
+    justify-content:space-evenly;    
+   
+
+}
+.section6-1 img{
+    width:100%;
+    height:275px;
+    float: left;
+    
+}
+.section7{
+    width:100%;
+    height:260px;
+    float: left;
+    background-color:#fff;
+}
+.t4{
+    font-size: 45px;
+    color: rgb(14, 12, 12);
+    float: left;
+    margin-top: 170px;
+    margin-left: 505px;
+
+}
+.section8{
+    display: flex;
+    justify-content:space-evenly;    
+    margin-top: 18px;
+
+    width:100%;
+    height:230px;
+    float: left;
+    background-color:#fff;
+}
+.section8-1 img{
+    height: 200px;
+    width: 220px;
+    cursor: pointer;
+
+}
+.section8-1 img:hover{
+
+    border-radius: 14px;
+    box-shadow: 13px 13px 13px #cbced1,-13px -13px 20px #ffffff;
+}
+.section9{
+    width:100%;
+    height:260px;
+    float: left;
+    background-color:#fff;
+    display: flex;
+    justify-content:space-evenly; 
+    color: grey; 
+}
+.section9-1 img{
+    height: 205px;
+    width: 380px;
+    cursor: pointer;
+}
+.section9-1 img:hover{
+
+    border-radius: 14px;
+    box-shadow: 13px 13px 13px #cbced1,-13px -13px 20px #ffffff;
+}
+.h{
+    color: #4887f9;
+    font-size: 13px;
+    cursor: pointer;
+}
+.section10{
+    width:100%;
+    height:130px;
+    float: left;
+    background-color:#fff;
+}
+.buttun{
+    height: 55px;
+    width: 180px;
+    background-color:rgb(10 55 137 / 95%);
+    color: #fff;
+    margin-left: 147mm;
+    margin-top: 48px;
+    word-spacing: 5px;
+    border-width: 0px;
+}
+.bottom{
+    height:290px;
+    width:100%;
+    float: left;
+    background-color:rgb(10 55 137 / 95%);
+   
+}
+.bottom1{
+    height:290px;
+    width:100%;
+    display:flex;
+   
+    
+}
+.bottom1-1{
+    height: 220px;
+    width: 327px;
+    margin: auto;
+    justify-content: center;
+    margin: auto;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 57 px;
+    margin-left: 54px;
+
+}
+.bottom1-2{
+    height: 200px;
+        width: 300px;
+       
+        justify-content: center;
+       
+        margin: auto;
+        font-size: 16px;
+        color: #fff;
+       
+        margin-left: 32px;
+        margin-top: 34px;
+    }
+.bottom1-3{
+    height: 200px;
+    width: 157px;
+    margin: auto;
+    justify-content: center;
+   
+    margin-left: -58px;
+    margin-top: 34px;
+    color: #fff;
+}
+.tex{
+    font-weight:lighter;
+    color:#fff;
+    font-size: 14px;
+    
+}
